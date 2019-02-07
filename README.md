@@ -6,9 +6,10 @@ A collection of resources that I have used or think look useful. These are mostl
 
 * [Slate](https://www.slatejs.org/#/rich-text) is an open source rich-text editor \(not coincidentally, it's the one used by [GitBook](https://www.gitbook.com/)\).
 
-## Email
+## Communications
 
 * If you need and email forwarding service, [Forward Email](https://forwardemail.net/) is one free, open-source service which can help.
+* If you need a temporary or alternative phone number, give [Burner](https://www.burnerapp.com/) a go. For a free alternative try [SMSReceiveFree](https://smsreceivefree.com/) — though it's number choices are limited and it has what amounts to a public, shared inbox.
 
 ## Other guides
 
