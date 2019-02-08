@@ -15,4 +15,5 @@ There are a million and one tools for analysing data and the right tool depends 
 
 * [Jupyter](https://jupyter.org/) notebooks are a great tool for analysing data with added analysis and narrative.
 * You can author and store Jupyter notebooks in your Google Drive with [Colaboratory](https://colab.research.google.com/).
+* [Knime](https://www.knime.com/) is a pretty amazing, if somewhat clunky tool which is great for doing data science type things \(especially [text analytics](https://www.knime.com/knime-text-processing)\) and automating workflows for reproducibility. Just [ask Angus Veitch](https://twitter.com/AngusVeitch/status/1093658731202543616), who did his whole PhD using Knime.
 
