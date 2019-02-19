@@ -4,4 +4,5 @@
 * [Data](data-collection.md)
 * [Community](community.md)
 * [Content](content.md)
+* [Hosting](hosting.md)
 
