@@ -2,6 +2,10 @@
 
 A collection of resources that I have used or think look useful. These are mostly focused on tools, resources, components or tutorials that have some relation to storytelling or journalism with a technical bent. That could be anything including visualisation, web development, data manipulation or analysis, investigatory tools and community building.
 
+Although this is written as though it's for an audience, it's primarily intended as a resource for my own use, so I make no guarantees about keeping it up to date, reorganising it without warning or disappearing things all together.
+
+All that said, I very much welcome any contributions or recommendations you might have, so feel free to propose an edit.
+
 ## Web development
 
 * [Slate](https://www.slatejs.org/#/rich-text) is an open source rich-text editor \(not coincidentally, it's the one used by [GitBook](https://www.gitbook.com/)\).
