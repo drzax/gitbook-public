@@ -9,6 +9,8 @@ To scrape the web, you're going to have to parse the DOM some way.
 * If you're dealing with fairly static pages, [Cheerio](https://cheerio.js.org/) is great. It's light-weight and easy to use.
 * For more complicated tasks where you either need to interact with the page, or there is dynamic content you need access to, [Puppeteer](https://pptr.dev/) is probably your best bet.
 * [Morph.io](https://morph.io/) is a runtime/host for your scrapers which also automatically creates an API for the data.
+* [Mercurly Web Parser](https://github.com/postlight/mercury-parser) \(which used to be an API, but is now [open-sourced](https://postlight.com/trackchanges/mercury-goes-open-source)\) is a node app which parses the 'article' text out of a web page.
+* For point and click web-scraping, [Import.io](https://www.import.io/) used to be pretty handy, but is now prohibitivly expensive for my usual use cases.
 
 ### Databases
 
