@@ -19,6 +19,12 @@ To scrape the web, you're going to have to parse the DOM some way.
 * For hosting, sharing and exploring data sets, [Datasette](https://datasette.readthedocs.io/en/stable/) is well worth a look.
 * Graph databases are a thing — give [neo4j](https://neo4j.com/) a go.
 
+### Geolocation
+
+* An [IP address based geolocation API](https://ipgeolocation.io/pricing) with a free tier.
+
+
+
 ## Analysing
 
 There are a million and one tools for analysing data and the right tool depends a lot on the job, and on your own experience.
