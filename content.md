@@ -13,6 +13,7 @@ Looking for some free or cheap images to help illustrate your story? These are u
 * [Pixabay](https://pixabay.com/en/) has a large collection of both photos and illustrations available under a commercial use, no attribution required license.
 * For a huge collection of customisable SVG illustrations try [undraw](https://undraw.co/).
 * Like public domain [botanical illustrations](https://www.flickr.com/photos/biodivlibrary/)?
+* The [Noun Project](https://thenounproject.com/) has a huge collection of Creative Commons licensed icons, with optional non-attributed use for a very reasonable fee.
 
 
 
