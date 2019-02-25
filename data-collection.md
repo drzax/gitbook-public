@@ -21,6 +21,7 @@ To scrape the web, you're going to have to parse the DOM some way.
 
 ### Geolocation
 
+* [Nominatim](https://operations.osmfoundation.org/policies/nominatim/) is a free Open Street Maps based geocoding \(and reverse geocoding\) service with reasonable usage limits for small projects.
 * An [IP address based geolocation API](https://ipgeolocation.io/pricing) with a free tier.
 
 
