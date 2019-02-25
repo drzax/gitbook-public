@@ -5,4 +5,5 @@
 * [Community](community.md)
 * [Content](content.md)
 * [Hosting](hosting.md)
+* [Reference](reference.md)
 
