@@ -4,7 +4,6 @@ Finding somewhere to put your thing—whatever it is—can be a pain. I don't wa
 
 * [Netlify](https://www.netlify.com/) is one of my favourite options for personal projects. It has a generous free option.
 * For quick deploys of any old static stuff to the internet [surge.sh](https://surge.sh/) and [now.sh](https://zeit.co/now) are both convenient options.
-* Docker
-* Digital Ocean
-* Google Cloud Functions
+* [Google](https://cloud.google.com/products/) has an extensive offering of hosting services, including functions and static hosting. These might be worth considering, especially if you need [database hosting](data-collection.md#databases) too.
+* For something more fully fledged or involving self-hosting multiple services, give Docker combined with a container hosting platform like [Digital Ocean](https://www.digitalocean.com/) a go.
 
