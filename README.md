@@ -9,6 +9,7 @@ All that said, I very much welcome any contributions or recommendations you migh
 ## Web development
 
 * [Slate](https://www.slatejs.org/#/rich-text) is an open source rich-text editor \(not coincidentally, it's the one used by [GitBook](https://www.gitbook.com/)\).
+* [Google Fonts](https://fonts.google.com/) is an excellent source of permissively licensed web fonts to give your digital typeface game a lift. If you're not keen on the Google hosted copies, they have them all in [a convenient GitHub repository](https://github.com/google/fonts) so you can take them from there and self-host
 
 ## Communications
 
