@@ -24,8 +24,6 @@ To scrape the web, you're going to have to parse the DOM some way.
 * [Nominatim](https://operations.osmfoundation.org/policies/nominatim/) is a free Open Street Maps based geocoding \(and reverse geocoding\) service with reasonable usage limits for small projects.
 * An [IP address based geolocation API](https://ipgeolocation.io/pricing) with a free tier.
 
-
-
 ## Analysing
 
 There are a million and one tools for analysing data and the right tool depends a lot on the job, and on your own experience.
@@ -34,6 +32,7 @@ There are a million and one tools for analysing data and the right tool depends 
 * You can author and store Jupyter notebooks in your Google Drive with [Colaboratory](https://colab.research.google.com/).
 * Similar to Jupyter notebooks is [Observable](https://beta.observablehq.com/), a javascript based, hosted notebook runtime. It's also open source, so you can [host your own runtime](https://www.npmjs.com/package/@observablehq/runtime).
 * [Knime](https://www.knime.com/) is a pretty amazing, if somewhat clunky tool which is great for doing data science type things \(especially [text analytics](https://www.knime.com/knime-text-processing)\) and automating workflows for reproducibility. Just [ask Angus Veitch](https://twitter.com/AngusVeitch/status/1093658731202543616), who did his whole PhD using Knime.
+* Need to quickly [check the difference between two bits of text](https://www.diffchecker.com/)? This site is useful if you also want to publish it or point to it publicly.
 
 ## Visualising
 
