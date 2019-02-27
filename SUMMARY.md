@@ -6,4 +6,5 @@
 * [Content](content.md)
 * [Hosting](hosting.md)
 * [Reference](reference.md)
+* [Reporting](reporting.md)
 
