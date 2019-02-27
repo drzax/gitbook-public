@@ -18,11 +18,18 @@ To scrape the web, you're going to have to parse the DOM some way.
 * [Google Firebase](https://firebase.google.com/) is a hosted solution that's easy to get started with.
 * For hosting, sharing and exploring data sets, [Datasette](https://datasette.readthedocs.io/en/stable/) is well worth a look.
 * Graph databases are a thing — give [neo4j](https://neo4j.com/) a go.
+* Hosting databases
+  * [Cockpit](https://getcockpit.com/) looks like a promising option for hosting structured data as an API.
+  * For tabular data give [Datasette](https://datasette.readthedocs.io/en/stable/#) a try.
 
 ### Geolocation
 
 * [Nominatim](https://operations.osmfoundation.org/policies/nominatim/) is a free Open Street Maps based geocoding \(and reverse geocoding\) service with reasonable usage limits for small projects.
 * An [IP address based geolocation API](https://ipgeolocation.io/pricing) with a free tier.
+
+### Other helpful data extraction/collection tools
+
+* [Tabula](https://tabula.technology/) is indispensable for getting data from PDFs.
 
 ## Analysing
 

@@ -7,3 +7,5 @@ Finding somewhere to put your thing—whatever it is—can be a pain. I don't wa
 * [Google](https://cloud.google.com/products/) has an extensive offering of hosting services, including functions and static hosting. These might be worth considering, especially if you need [database hosting](data-collection.md#databases) too.
 * For something more fully fledged or involving self-hosting multiple services, give Docker combined with a container hosting platform like [Digital Ocean](https://www.digitalocean.com/) a go.
 
+
+
