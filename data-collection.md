@@ -35,6 +35,8 @@ To scrape the web, you're going to have to parse the DOM some way.
 
 There are a million and one tools for analysing data and the right tool depends a lot on the job, and on your own experience.
 
+When you're analyising data, you'll inevitably need to clean it first. A lot of the programmable analysis tools below can help with that, but one dedicated tool worth taking a look at is [OpenRefine](http://openrefine.org/).
+
 * [Jupyter](https://jupyter.org/) notebooks are a great tool for analysing data with added analysis and narrative.
 * You can author and store Jupyter notebooks in your Google Drive with [Colaboratory](https://colab.research.google.com/).
 * Similar to Jupyter notebooks is [Observable](https://beta.observablehq.com/), a javascript based, hosted notebook runtime. It's also open source, so you can [host your own runtime](https://www.npmjs.com/package/@observablehq/runtime).
