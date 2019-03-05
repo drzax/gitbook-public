@@ -18,6 +18,7 @@ To scrape the web, you're going to have to parse the DOM some way.
 * [Google Firebase](https://firebase.google.com/) is a hosted solution that's easy to get started with.
 * For hosting, sharing and exploring data sets, [Datasette](https://datasette.readthedocs.io/en/stable/) is well worth a look.
 * Graph databases are a thing — give [neo4j](https://neo4j.com/) a go.
+* Believe it or not, a spreadsheet is often a pretty good database. If you use something hosted, like [Google Sheets](https://docs.google.com/spreadsheets/), it's easy to collaborate and you can turn it into a data source either [at build time](https://developers.google.com/sheets/api/quickstart/nodejs) or via [an API like sheety.co](https://sheety.co/) \(or a [commercial alternative like Sheetsu](https://sheetsu.com/)\).
 * Hosting databases
   * [Cockpit](https://getcockpit.com/) looks like a promising option for hosting structured data as an API.
   * For tabular data give [Datasette](https://datasette.readthedocs.io/en/stable/#) a try.
