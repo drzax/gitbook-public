@@ -3,6 +3,7 @@
 ## Writing
 
 * Can't quite remember that cliche? [Ludwig](https://ludwig.guru/login) — a sentence search engine, whatever that is — can help.
+* Fore collaborative editing/drafting, it's hard to go past [Google Docs](https://docs.google.com/), but if markdown is more your thing, [draftin](https://draftin.com/documents) looks good.
 
 ## Images
 
