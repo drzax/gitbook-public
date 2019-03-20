@@ -51,3 +51,7 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
   * [Recharts](http://recharts.org/) and [data-ui](https://williaster.github.io/data-ui/) are collections of React components to build charts with.
 * [Vega](https://vega.github.io/vega/) essentialy an effort at a standard data format for describing data visualisations \(a grammar of visualisation\). In theory, it would let you, using a declarative input, create a visualisation on any platform that supported the standard. While the implementation is javascript based, it also has a Python equivalent called [Altair](https://altair-viz.github.io/).
 
+#### Audio
+
+An interesting alternative to visual representations of data is audio representations. [TwoTone](https://app.twotone.io/) is an attempt to make that easy—give it a try.
+
