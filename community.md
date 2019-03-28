@@ -22,8 +22,11 @@ Email seems to perpetually be both the last and the next big thing. There are a 
 * Mailinator
 * Sendgrid
 * Mailgun
+* Tiny Letter
 
 
 
+### Documentation
 
+Documentation is super important and almost always ignored. Sometimes it's because the tools are too hard. New York Times has [leveraged Google Docs](https://github.com/nytimes/library) to fix that.
 

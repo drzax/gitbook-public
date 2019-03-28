@@ -12,6 +12,7 @@ To scrape the web, you're going to have to parse the DOM some way.
 * [Mercurly Web Parser](https://github.com/postlight/mercury-parser) \(which used to be an API, but is now [open-sourced](https://postlight.com/trackchanges/mercury-goes-open-source)\) is a node app which parses the 'article' text out of a web page.
 * For point and click web-scraping, [Import.io](https://www.import.io/) used to be pretty handy, but is now prohibitivly expensive for my usual use cases.
 * Want to scrape LinkedIn? [ScrapedIn](https://github.com/linkedtales/scrapedin) is a project to do that. Though LinkedIn pretty zealously tries to [detect and block](https://github.com/dandrews/nefarious-linkedin) scraping attempts.
+* Need to [download a YouTube video](https://www.youtubnow.com/save-youtube-videos-online.html)?
 
 ### Databases
 
