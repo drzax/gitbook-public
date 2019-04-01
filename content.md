@@ -22,3 +22,7 @@ Looking for some free or cheap images to help illustrate your story? These are u
 * The [Noun Project](https://thenounproject.com/) has a huge collection of Creative Commons licensed icons, with optional non-attributed use for a very reasonable fee.
 * [Flaticon](https://www.flaticon.com/) is another site offering a large selection of free icon sets.
 
+## Video
+
+* Need to edit a quick video? [Veed](https://www.veed.io/) might be what you need.
+

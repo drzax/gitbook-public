@@ -19,7 +19,9 @@ To scrape the web, you're going to have to parse the DOM some way.
 * [SQLite](https://sqlite.org/) is consistently useful and probably the simplest relational database to get started with because it doesn't need a server. There are also plenty of well supported language specific packages for working with it like node-sqlite3 for [javascript](https://github.com/mapbox/node-sqlite3) \(or [sqlite](https://www.npmjs.com/package/sqlite) if you like promises\).
 * [Google Firebase](https://firebase.google.com/) is a hosted solution that's easy to get started with.
 * For hosting, sharing and exploring data sets, [Datasette](https://datasette.readthedocs.io/en/stable/) is well worth a look.
-* Graph databases are a thing — give [neo4j](https://neo4j.com/) a go.
+* Graph databases are a thing — give [neo4j](https://neo4j.com/) a go. 
+  * [GraphineDB](https://www.graphenedb.com/) is a hosted neo4j service with reasonable free tier to get started with.
+  * Some [notes on using neo4j](neo4j.md).
 * Believe it or not, a spreadsheet is often a pretty good database. If you use something hosted, like [Google Sheets](https://docs.google.com/spreadsheets/), it's easy to collaborate and you can turn it into a data source either [at build time](https://developers.google.com/sheets/api/quickstart/nodejs) or via [an API like sheety.co](https://sheety.co/) \(or a [commercial alternative like Sheetsu](https://sheetsu.com/)\).
 * Hosting databases
   * [Cockpit](https://getcockpit.com/) looks like a promising option for hosting structured data as an API.
