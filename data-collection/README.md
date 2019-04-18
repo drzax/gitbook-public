@@ -36,6 +36,10 @@ To scrape the web, you're going to have to parse the DOM some way.
 
 * [Tabula](https://tabula.technology/) is indispensable for getting data from PDFs.
 
+### Open-data sources
+
+* [data.world](https://data.world/) is a commercial product for managing and publishing data, but also has a bunch of open data available that's worth a look from time to time.
+
 ## Analysing
 
 There are a million and one tools for analysing data and the right tool depends a lot on the job, and on your own experience.
