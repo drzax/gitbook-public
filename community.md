@@ -25,7 +25,11 @@ Email seems to perpetually be both the last and the next big thing. There are a 
 * Tiny Letter
 * Mailblast.io
 
+### Events/Speaking
 
+Attending and speaking at events is a great way to build and participate in the community around journalism and tech.
+
+* Are you stuck writing a talk? [Speaking.io](https://speaking.io) might be helpful.
 
 ### Documentation
 
