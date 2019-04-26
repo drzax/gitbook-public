@@ -35,6 +35,7 @@ To scrape the web, you're going to have to parse the DOM some way.
 ### Other helpful data extraction/collection tools
 
 * [Tabula](https://tabula.technology/) is indispensable for getting data from PDFs.
+* Extract data from a [last.fm](https://github.com/benfoxall/lastfm-to-csv) profile.
 
 ### Open-data sources
 
