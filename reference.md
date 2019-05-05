@@ -6,4 +6,4 @@ description: A list of reference material I've found useful.
 
 * Wikipedia has a great list of [mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols).
 * Some nice patterns for writing [custom React hooks](https://usehooks.com/).
-
+* Resource locking to prevent concurrent editing using [web sockets](https://marmelab.com/blog/2017/09/13/real-time-resource-locking-using-socketio-and-react-router.html)
