@@ -23,6 +23,7 @@ To scrape the web, you're going to have to parse the DOM some way.
   * [GraphineDB](https://www.graphenedb.com/) is a hosted neo4j service with reasonable free tier to get started with.
   * Some [notes on using neo4j](neo4j.md).
 * Believe it or not, a spreadsheet is often a pretty good database. If you use something hosted, like [Google Sheets](https://docs.google.com/spreadsheets/), it's easy to collaborate and you can turn it into a data source either [at build time](https://developers.google.com/sheets/api/quickstart/nodejs) or via [an API like sheety.co](https://sheety.co/) \(or a [commercial alternative like Sheetsu](https://sheetsu.com/)\).
+* Real time collaboration on a single document is hard [ShareDB](https://github.com/share/sharedb) might make it easier. It uses the Operational Transformation (OT) methodology.
 * Hosting databases
   * [Cockpit](https://getcockpit.com/) looks like a promising option for hosting structured data as an API.
   * For tabular data give [Datasette](https://datasette.readthedocs.io/en/stable/#) a try.
