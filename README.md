@@ -12,6 +12,9 @@ All that said, I very much welcome any contributions or recommendations you migh
 * [Google Fonts](https://fonts.google.com/) is an excellent source of permissively licensed web fonts to give your digital typeface game a lift. If you're not keen on the Google hosted copies, they have them all in [a convenient GitHub repository](https://github.com/google/fonts) so you can take them from there and self-host
 * Keep those dependencies up to date with [Greenkeeper](https://greenkeeper.io/).
 
+### React
+* A pretty clear step by step for [getting a React project setup with Webpack and Babel](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658).
+
 ## Communications
 
 * If you need and email forwarding service, [Forward Email](https://forwardemail.net/) is one free, open-source service which can help.
