@@ -25,6 +25,10 @@ Email seems to perpetually be both the last and the next big thing. There are a 
 * Tiny Letter
 * Mailblast.io
 
+If you're making an email newsletter, these resources might be useful.
+
+* [Really good emails](https://reallygoodemails.com/category/industry/news/)
+
 ### Events/Speaking
 
 Attending and speaking at events is a great way to build and participate in the community around journalism and tech.
