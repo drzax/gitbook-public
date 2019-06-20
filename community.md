@@ -12,7 +12,7 @@ Whenever I'm asked how to get started in web development, my response is that yo
 2. Vocabulary — you need to start building your vocabulary around terms used.
 3. Time — you have to be willing and able to put in the time.
 
-### Email newsletters
+## Email newsletters
 
 Email seems to perpetually be both the last and the next big thing. There are a million ways it could be improved upon, but nobody ever really does because it's pretty good as is.
 
@@ -29,13 +29,13 @@ If you're making an email newsletter, these resources might be useful.
 
 * [Really good emails](https://reallygoodemails.com/category/industry/news/)
 
-### Events/Speaking
+## Events/Speaking
 
 Attending and speaking at events is a great way to build and participate in the community around journalism and tech.
 
 * Are you stuck writing a talk? [Speaking.io](https://speaking.io) might be helpful.
 
-### Documentation
+## Documentation
 
 Documentation is super important and almost always ignored. Sometimes it's because the tools are too hard. New York Times has [leveraged Google Docs](https://github.com/nytimes/library) to fix that.
 

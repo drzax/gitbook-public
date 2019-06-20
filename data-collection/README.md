@@ -12,7 +12,7 @@ To scrape the web, you're going to have to parse the DOM some way.
 * [Mercurly Web Parser](https://github.com/postlight/mercury-parser) \(which used to be an API, but is now [open-sourced](https://postlight.com/trackchanges/mercury-goes-open-source)\) is a node app which parses the 'article' text out of a web page.
 * For point and click web-scraping, [Import.io](https://www.import.io/) used to be pretty handy, but is now prohibitivly expensive for my usual use cases.
 * Want to scrape LinkedIn? [ScrapedIn](https://github.com/linkedtales/scrapedin) is a project to do that. Though LinkedIn pretty zealously tries to [detect and block](https://github.com/dandrews/nefarious-linkedin) scraping attempts.
-* Need to <del>[download a YouTube video](https://www.youtubnow.com/save-youtube-videos-online.html)</del>? You can do that [using VLC](https://www.wikihow.com/Download-Files-Using-VLC-Media-Player) which Samantha Sunne correctly [points out](https://toolsforreporters.substack.com/p/youtube-doesnt-want-you-to-download) feels much safer than the aforementioned method.
+* Need to [~~download a YouTube video~~](https://www.youtubnow.com/save-youtube-videos-online.html)? You can do that [using VLC](https://www.wikihow.com/Download-Files-Using-VLC-Media-Player) which Samantha Sunne correctly [points out](https://toolsforreporters.substack.com/p/youtube-doesnt-want-you-to-download) feels much safer than the aforementioned method.
 
 ### Databases
 
@@ -23,7 +23,7 @@ To scrape the web, you're going to have to parse the DOM some way.
   * [GraphineDB](https://www.graphenedb.com/) is a hosted neo4j service with reasonable free tier to get started with.
   * Some [notes on using neo4j](neo4j.md).
 * Believe it or not, a spreadsheet is often a pretty good database. If you use something hosted, like [Google Sheets](https://docs.google.com/spreadsheets/), it's easy to collaborate and you can turn it into a data source either [at build time](https://developers.google.com/sheets/api/quickstart/nodejs) or via [an API like sheety.co](https://sheety.co/) \(or a [commercial alternative like Sheetsu](https://sheetsu.com/)\).
-* Real time collaboration on a single document is hard [ShareDB](https://github.com/share/sharedb) might make it easier. It uses the Operational Transformation (OT) methodology.
+* Real time collaboration on a single document is hard [ShareDB](https://github.com/share/sharedb) might make it easier. It uses the Operational Transformation \(OT\) methodology.
 * Hosting databases
   * [Cockpit](https://getcockpit.com/) looks like a promising option for hosting structured data as an API.
   * For tabular data give [Datasette](https://datasette.readthedocs.io/en/stable/#) a try.
@@ -59,7 +59,16 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
 
 * [d3](https://d3js.org/) is still the leader of the pack for web-based data visualisation. There are also a heap of higher level data visualisation tools and components, many of which use d3 under the hood.
   * [Recharts](http://recharts.org/) and [data-ui](https://williaster.github.io/data-ui/) are collections of React components to build charts with.
-* [Vega](https://vega.github.io/vega/) essentialy an effort at a standard data format for describing data visualisations \(a grammar of visualisation\). In theory, it would let you, using a declarative input, create a visualisation on any platform that supported the standard. While the implementation is javascript based, it also has a Python equivalent called [Altair](https://altair-viz.github.io/).
+* [Vega](https://vega.github.io/vega/) essentially an effort at a standard data format for describing data visualisations \(a grammar of visualisation\). In theory, it would let you, using a declarative input, create a visualisation on any platform that supported the standard. While the implementation is javascript based, it also has a Python equivalent called [Altair](https://altair-viz.github.io/).
+
+### Animation
+
+* [ThreeJS](https://threejs.org/) seems to be the stand out in the 3D animation WebGL rendering space. There is great [documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) and heaps of [good examples](https://threejs.org/examples/). There are also heaps of other [tutorials](https://threejsfundamentals.org/), [examples](https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/) and [moments of happiness](https://moments.epic.net/#).
+  * [Codrops](https://tympanus.net/codrops/) has a tutorial about [linking animation to scroll](https://tympanus.net/codrops/2019/03/22/how-to-create-smooth-webgl-transitions-on-scroll-using-phenomenon/).
+* [Green Sock](https://greensock.com/) is another popular option which looks pretty good.
+* [Zdog](https://zzz.dog/) is a library for making [super cute](https://codepen.io/desandro/pen/vdwMyW) 3D animations out of simple 2D shapes.
+* [PixiJS](https://www.pixijs.com/) looks like a pretty full fledged library for 2D WebGL rendering, but the [examples](https://pixijs.io/examples/), [documentation](http://pixijs.download/release/docs/index.html) and [tutorials](https://www.pixijs.com/tutorials) seem to be fairly difficult to navigate and sometimes out of date. 
+* [Two.js](https://two.js.org/#introduction) is another two dimensional drawing library, but I find the API documentation very difficult to follow.
 
 #### Audio
 

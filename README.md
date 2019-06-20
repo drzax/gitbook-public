@@ -14,6 +14,7 @@ All that said, I very much welcome any contributions or recommendations you migh
 * [Set operations on javascript arrays](https://medium.com/@alvaro.saburido/set-theory-for-arrays-in-es6-eb2f20a61848) is something I seem to find myself needing again and again for which I haven't found a nice library.
 
 ### React
+
 * A pretty clear step by step for [getting a React project setup with Webpack and Babel](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658).
 
 ## Communications
