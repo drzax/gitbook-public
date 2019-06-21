@@ -16,4 +16,6 @@ These may not strictly be hosting services, but they can be incredibly useful in
 * [RunKit](https://runkit.com/) is a free live coding environment for Node.js which can also be used for [creating simple APIs or lambda functions](https://runkit.com/docs/endpoint).
 * [Glitch](https://glitch.com/) is a pretty handy space for Node.js experiments too. And bonus\(!\) projects there offer [data persistence](https://glitch.com/storage).
 * [Observable](https://observablehq.com/) is a pretty unique live coding offering particularly suitable for visualisations from the god of D3, Mike Bostock.
+  * [Observable is not Javascript](https://observablehq.com/@observablehq/observables-not-javascript) — a brief look a the differences.
+  * The [Observable Standard Library](https://github.com/observablehq/stdlib/blob/master/README.md) \(and [examples](https://observablehq.com/@observablehq/standard-library)\).
 
