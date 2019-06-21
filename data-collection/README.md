@@ -70,6 +70,12 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
 * [PixiJS](https://www.pixijs.com/) looks like a pretty full fledged library for 2D WebGL rendering, but the [examples](https://pixijs.io/examples/), [documentation](http://pixijs.download/release/docs/index.html) and [tutorials](https://www.pixijs.com/tutorials) seem to be fairly difficult to navigate and sometimes out of date. 
 * [Two.js](https://two.js.org/#introduction) is another two dimensional drawing library, but I find the API documentation very difficult to follow.
 
+### Graphs and network diagrams
+
+Here are a few rough notes on visualising graphs. Graphs are a tricky because they are difficult to layout legibly and any graph of more than just a few nodes and edges tends to end up resembling a [hairball](https://eagereyes.org/techniques/graphs-hairball).
+
+_tbc_
+
 #### Audio
 
 An interesting alternative to visual representations of data is audio representations. [TwoTone](https://app.twotone.io/) is an attempt to make that easy—give it a try.
