@@ -28,4 +28,5 @@ As a general rule, this space is focused on specific tools and what they're usef
 
 * Politico's news apps team has done a great job of documenting their processes with this [Interactive News Developer Guide](https://docs.politicoapps.com/politico-newsroom-developer-guide/).
 * You want to be a data-journalist \(i.e. you're a regular journalist who wants to understand how to deal with one of the modern world's most important journalistic source material\)? Read and re-read the [Data Journalism Handbook](https://datajournalismhandbook.org/). 
+* The [NYT data training materials](https://drive.google.com/drive/u/0/folders/1ZS57_40tWuIB7tV4APVMmTZ-5PXDwX9w).
 
