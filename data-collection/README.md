@@ -74,7 +74,19 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
 
 Here are a few rough notes on visualising graphs. Graphs are a tricky because they are difficult to layout legibly and any graph of more than just a few nodes and edges tends to end up resembling a [hairball](https://eagereyes.org/techniques/graphs-hairball).
 
+#### Tools/concepts
+
+* Force layout algorithms in [2d](https://github.com/d3/d3-force) and [3d](https://github.com/vasturiano/d3-force-3d)
+  * Making them [deterministic](https://github.com/d3/d3-force/issues/121) is probably helpful
+* [Hive plots](http://www.hiveplot.com/)
+
+#### Examples
+
+* [Reddit community similarity](http://csslab.cs.toronto.edu/gs/)
+
 _tbc_
+
+\_\_
 
 #### Audio
 

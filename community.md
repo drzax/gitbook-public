@@ -28,6 +28,7 @@ Email seems to perpetually be both the last and the next big thing. There are a 
 If you're making an email newsletter, these resources might be useful.
 
 * [Really good emails](https://reallygoodemails.com/category/industry/news/)
+* Not a Newsletter: [A Monthly Guide to Sending Better Emails](https://docs.google.com/document/d/1pySiYQ_5OMsj1U4r5XXLPru0NtiVg2FVaO5INBlNffk/edit)
 
 ## Events/Speaking
 
