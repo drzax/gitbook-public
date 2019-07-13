@@ -8,4 +8,5 @@
 * [Hosting](hosting.md)
 * [Reference](reference.md)
 * [Reporting](reporting.md)
+* [Code snippets](code-snippets.md)
 
