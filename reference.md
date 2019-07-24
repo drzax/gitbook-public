@@ -5,6 +5,7 @@ description: A list of reference material I've found useful.
 # Reference
 
 * Wikipedia has a great list of [mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols).
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) is a wiki with multi-language implementations of many common algorithms.
 
 ## React
 

@@ -24,6 +24,7 @@ Email seems to perpetually be both the last and the next big thing. There are a 
 * Mailgun
 * Tiny Letter
 * Mailblast.io
+* buttondown.email
 
 If you're making an email newsletter, these resources might be useful.
 
