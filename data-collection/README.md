@@ -41,6 +41,7 @@ To scrape the web, you're going to have to parse the DOM some way.
 ### Open-data sources
 
 * [data.world](https://data.world/) is a commercial product for managing and publishing data, but also has a bunch of open data available that's worth a look from time to time.
+* [The Accountability Project](https://www.publicaccountability.org/) is a US open data aggregation project run by [Investigative Reporting Workshop](https://investigativereportingworkshop.org/2019/07/10/introducing-the-accountability-project-a-new-resource-for-public-data/) and focused on accountability.
 
 ## Analysing
 
