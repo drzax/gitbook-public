@@ -17,6 +17,7 @@ There's a thorough list and solid [reviews of audio/interviewing/transcription t
   * The IBM Watson [Transcription Demo](https://speech-to-text-demo.mybluemix.net/) is also worth checking out for auto transcription.
   * An open source project that looks promising here is [AutoEdit 2](http://www.autoedit.io/). It offers multiple back end services to actually do the transcription, but it's very buggy at the moment.
   * Other options are: [Happy Scribe](https://www.happyscribe.co/), [Spext](http://spext.co), [Steno](https://itunes.apple.com/us/app/steno-live-transcription-and-recording/id1205209916?mt=8), and [Pop Up Archive](https://www.popuparchive.com/).
+  * Untested: [Pennamn speech to text](https://apps.apple.com/us/app/penman-speak-your-notes/id1434184098?ls=1)
 * Dictation 
   * [Google Docs](http://docs.google.com) can now [transcribe your dictation](https://qz.com/work/1087765/how-to-transcribe-audio-fast-and-for-free-using-google-docs-voice-typing/) for free.
 * Other Resources 
