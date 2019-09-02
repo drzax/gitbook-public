@@ -7,7 +7,9 @@
 * [Content](content.md)
 * [Hosting](hosting.md)
 * [Reference](reference.md)
-* [Reporting](reporting.md)
+* [Reporting](reporting/README.md)
+  * [Privacy reporting](reporting/privacy-reporting.md)
+  * [Digital investigative reporting](reporting/digital-investigative-reporting.md)
 * [Code snippets](code-snippets.md)
 * [Computer setup](coding-environment.md)
 

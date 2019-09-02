@@ -37,5 +37,3 @@ OSINT or Open Source Intelligence is really just a long list of, usually interne
   * [https://hunter.io/](https://hunter.io/)
   * [https://contactout.com/](https://contactout.com/)
 
-
-
