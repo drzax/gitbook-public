@@ -9,7 +9,7 @@ This is a collection of selected reporting and other links on the topic with som
 * Washington Post has done a similar study to \#DataLife but focused on Google Chrome: [Google's web browser has become spyware](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/).
 * Washington Post has also done the same with [iPhone apps](https://www.washingtonpost.com/technology/2019/05/28/its-middle-night-do-you-know-who-your-iphone-is-talking/), however, as [pointed out by 9to5Mac](https://9to5mac.com/2019/05/28/app-trackers/), the reporting doesn't seem entirely objective.
 * New York Times did a great job of the visualisation in [a look at web tracking](https://www.nytimes.com/interactive/2019/08/23/opinion/data-internet-privacy-tracking.html). The reporting used a [framework specifically for privacy research based on Firefox](https://github.com/mozilla/OpenWPM). The story is really worth a read.
-* In the wake of a series of smart speaker recordings privacy revelations, Apple is making [changes to Siri privacy](https://www.apple.com/newsroom/2019/08/improving-siris-privacy-protections/).
+* In the wake of [a series of smart speaker recordings privacy revelations](https://www.nytimes.com/2019/08/21/technology/personaltech/alexa-siri-google-assistant-listen.html), Apple is making [changes to Siri privacy](https://www.apple.com/newsroom/2019/08/improving-siris-privacy-protections/).
 
 
 
