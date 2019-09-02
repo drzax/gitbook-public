@@ -17,6 +17,10 @@ All that said, I very much welcome any contributions or recommendations you migh
 
 * A pretty clear step by step for [getting a React project setup with Webpack and Babel](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658).
 
+## Apps
+
+* [Glide](https://www.glideapps.com) is an interesting app from a Google spreadsheet idea. Might be worth using for the right application.
+
 ## Communications
 
 * If you need and email forwarding service, [Forward Email](https://forwardemail.net/) is one free, open-source service which can help.
