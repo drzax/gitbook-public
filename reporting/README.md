@@ -4,6 +4,10 @@ description: 'Tools, tips and techniques for use in the research and reporting p
 
 # Reporting
 
+## Investigation
+
+Do you forget [what operators are available in Google searches](https://en.wikipedia.org/wiki/Google_hacking)?
+
 ### Interviewing
 
 There's a thorough list and solid [reviews of audio/interviewing/transcription tools](https://medium.com/journalism-innovation/the-best-new-ways-to-transcribe-c4c342abf172) on Medium. Many of the links below are taken from their list.
