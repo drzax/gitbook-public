@@ -45,7 +45,7 @@ To scrape the web, you're going to have to parse the DOM some way.
 
 ## Analysing
 
-There are a million and one tools for analysing data and the right tool depends a lot on the job, and on your own experience.
+There are a million and one tools for analysing data and the right tool depends a lot on the job, and on your own experience. The first step is always setting up a [sensible project structure](http://datakit.ap.org/).
 
 When you're analyising data, you'll inevitably need to clean it first. A lot of the programmable analysis tools below can help with that, but one dedicated tool worth taking a look at is [OpenRefine](http://openrefine.org/).
 
