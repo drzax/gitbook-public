@@ -13,6 +13,8 @@ OSINT or Open Source Intelligence is really just a long list of, usually interne
 * Finding contact details:
   * [https://hunter.io/](https://hunter.io/)
   * [https://contactout.com/](https://contactout.com/)
+* Social media
+  * Twitter [account analysis](https://accountanalysis.app/twitter/)
 
 ## Interviewing
 
