@@ -5,6 +5,10 @@
 * Can't quite remember that cliche? [Ludwig](https://ludwig.guru/login) — a sentence search engine, whatever that is — can help.
 * Fore collaborative editing/drafting, it's hard to go past [Google Docs](https://docs.google.com/), but if markdown is more your thing, [draftin](https://draftin.com/documents) looks good.
 
+## Design
+
+* [Templates for sketching](https://sketchsheets.com/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-53) against common form factors.
+
 ## Images
 
 Looking for some free or cheap images to help illustrate your story? These are useful.
