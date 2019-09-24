@@ -8,7 +8,13 @@ description: 'Tools, tips and techniques for use in the research and reporting p
 
 Do you forget [what operators are available in Google searches](https://en.wikipedia.org/wiki/Google_hacking)?
 
-### Interviewing
+OSINT or Open Source Intelligence is really just a long list of, usually internet based, tools and techniques you can use to improve your reporting or dig deeper into a story.
+
+* Finding contact details:
+  * [https://hunter.io/](https://hunter.io/)
+  * [https://contactout.com/](https://contactout.com/)
+
+## Interviewing
 
 There's a thorough list and solid [reviews of audio/interviewing/transcription tools](https://medium.com/journalism-innovation/the-best-new-ways-to-transcribe-c4c342abf172) on Medium. Many of the links below are taken from their list.
 
@@ -33,11 +39,5 @@ There's a thorough list and solid [reviews of audio/interviewing/transcription t
   * [Google Voice](http://voice.google.com) \(not available in Australia\)
   * TapeACall
 
-## OSINT
 
-OSINT or Open Source Intelligence is really just a long list of, usually internet based, tools and techniques you can use to improve your reporting or dig deeper into a story.
-
-* Finding contact details:
-  * [https://hunter.io/](https://hunter.io/)
-  * [https://contactout.com/](https://contactout.com/)
 
