@@ -12,4 +12,5 @@
   * [Digital investigative reporting](reporting/digital-investigative-reporting.md)
 * [Code snippets](code-snippets.md)
 * [Computer setup](coding-environment.md)
+* [Travel](travel.md)
 
