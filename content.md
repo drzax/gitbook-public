@@ -31,3 +31,8 @@ Looking for some free or cheap images to help illustrate your story? These are u
 
 * Need to edit a quick video? [Veed](https://www.veed.io/) might be what you need.
 
+## Data visualisation
+
+* Charting libraries
+  * [https://nivo.rocks/](https://nivo.rocks/)
+
