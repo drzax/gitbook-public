@@ -14,3 +14,7 @@
 * [Computer setup](coding-environment.md)
 * [Travel](travel.md)
 
+## Research
+
+* [Tools](research/tools.md)
+
