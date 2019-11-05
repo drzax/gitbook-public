@@ -10,6 +10,8 @@ Do you forget [what operators are available in Google searches](https://en.wikip
 
 OSINT or Open Source Intelligence is really just a long list of, usually internet based, tools and techniques you can use to improve your reporting or dig deeper into a story.
 
+One of the best maintained lists of tools and techniques is [Bellingcat's Online Investigation Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#).
+
 * Finding contact details:
   * [https://hunter.io/](https://hunter.io/)
   * [https://contactout.com/](https://contactout.com/)
@@ -19,6 +21,8 @@ OSINT or Open Source Intelligence is really just a long list of, usually interne
 ## Interviewing
 
 There's a thorough list and solid [reviews of audio/interviewing/transcription tools](https://medium.com/journalism-innovation/the-best-new-ways-to-transcribe-c4c342abf172) on Medium. Many of the links below are taken from their list.
+
+The current winner is [Descript](https://www.descript.com/) which does an amazing job of transcription and integrate transcript / audio editing in a way that seems magic.
 
 * Transcribing audio
   * [oTranscribe](http://otranscribe.com) is a free tool to make manual transcription easier.
