@@ -31,5 +31,11 @@ description: >-
         members of your team, and to keep your past projects organized and easily
         accessible for future reference.</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://www.hunch.ly">Hunchly</a>
+      </td>
+      <td style="text-align:left">Automated audit trail, screenshots, data extraction for online investigation.
+        Chrome extension with companion app.</td>
+    </tr>
   </tbody>
 </table>
