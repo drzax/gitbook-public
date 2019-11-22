@@ -37,5 +37,10 @@ description: >-
       <td style="text-align:left">Automated audit trail, screenshots, data extraction for online investigation.
         Chrome extension with companion app.</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://web.hypothes.is/">Hypothes.is</a>
+      </td>
+      <td style="text-align:left">Annotations and note taking tool for notes on websites.</td>
+    </tr>
   </tbody>
 </table>
