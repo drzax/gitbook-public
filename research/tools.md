@@ -24,6 +24,11 @@ description: >-
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><a href="https://cryptomator.org/">Cryptomator</a>
+      </td>
+      <td style="text-align:left">Encrypt cloud based file stores.</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="http://datakit.ap.org/">DataKit</a>
       </td>
       <td style="text-align:left">AP DataKit is an open-source command-line tool designed to better structure
@@ -42,5 +47,19 @@ description: >-
       </td>
       <td style="text-align:left">Annotations and note taking tool for notes on websites.</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://linkurio.us/">Linkurio.us</a>
+      </td>
+      <td style="text-align:left">Graph / network analysis and exploration.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://www.editshare.com/">ShareEdit</a>
+      </td>
+      <td style="text-align:left">Suite of collaboration and workflow tools targeted specifically at the
+        media industry.</td>
+    </tr>
   </tbody>
 </table>
+
+
+
