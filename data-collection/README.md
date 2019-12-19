@@ -57,6 +57,7 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
 * [Knime](https://www.knime.com/) is a pretty amazing, if somewhat clunky tool which is great for doing data science type things \(especially [text analytics](https://www.knime.com/knime-text-processing)\) and automating workflows for reproducibility. Just [ask Angus Veitch](https://twitter.com/AngusVeitch/status/1093658731202543616), who did his whole PhD using Knime.
 * Need to quickly [check the difference between two bits of text](https://www.diffchecker.com/)? This site is useful if you also want to publish it or point to it publicly.
 * [Tiny spreadsheets](https://tinysheet.com) for quick calculations.
+* Machine learning can be used for analysis and [fast.ia](https://www.fast.ai/) is the best there is as of 2019.
 
 ## Visualising
 
