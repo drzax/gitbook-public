@@ -76,6 +76,7 @@ A list of databases that could be potential sources for _automated_ data enrichm
 | Database | Summary | API? |
 | :--- | :--- | :--- |
 | [OCCRP Aleph](https://aleph.occrp.org) | An aggregation of databases from around the world focussed on crime and corruption.  | ? |
+| [Open Corporates](https://opencorporates.com/) | "The largest database of companies in the world"  | Yes, [Paid](https://opencorporates.com/info/our-data/) |
 
 
 
