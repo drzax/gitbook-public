@@ -6,6 +6,14 @@ Although this is written as though it's for an audience, it's primarily intended
 
 All that said, I very much welcome any contributions or recommendations you might have, so feel free to propose an edit.
 
+## Note taking and organisation
+
+There are a ton of note taking apps around, these are some I've found that I like, use or think look interesting.
+
+* [Bear](https://bear.app/) — I use this every day. It's kind of like Evernote \(but not quite as _online_\). It supports Markdown for formatting.
+* [Notion](https://www.notion.so/) looks quite interesting because it seem to be note-taking plus a lot more useful stuff like knowledge base, tasks, database, etc. I haven't tried it, but only because I'm trying to avoid jumping from tool to tool too quickly.
+* [GitBook](https://gitbook.com) is obviously a tool I like to use for public knowledge base type note taking.
+
 ## Web development
 
 * [Slate](https://www.slatejs.org/#/rich-text) is an open source rich-text editor \(not coincidentally, it's the one used by [GitBook](https://www.gitbook.com/)\).
