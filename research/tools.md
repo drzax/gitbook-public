@@ -68,6 +68,13 @@ description: >-
         A set of specific relationship types are encoded in a relatively specific
         data model.</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://count.co/">Count</a>
+      </td>
+      <td style="text-align:left">A &apos;data notebook that everyone can use&apos;. Ties in with the idea
+        of a modern (data) reporter&apos;s notebook, but also looks focussed on
+        collaboration.</td>
+    </tr>
   </tbody>
 </table>### Databases
 
