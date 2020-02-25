@@ -27,6 +27,7 @@ To scrape the web, you're going to have to parse the DOM some way.
 * Hosting databases
   * [Cockpit](https://getcockpit.com/) looks like a promising option for hosting structured data as an API.
   * For tabular data give [Datasette](https://datasette.readthedocs.io/en/stable/#) a try.
+  * Programmatically reading \(and updating\) [data from GoogleSheets](http://codingfundas.com/how-to-read-edit-google-sheets-using-node-js/index.html) can be handy.
 
 ### Geolocation
 
