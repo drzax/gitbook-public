@@ -23,7 +23,26 @@ Things to consider:
 * backup ssh keys
 * OneTab list?
 
+## Missing tools
 
+### History search
+
+I want a full text search of all pages I've ever visited. It should provide weighting signals based on:
+
+* relevance
+* time spent on page
+* recency of last visit
+* frequency of visits
+
+The data to enable this will contain sensitive data, therefore should not be a hosted service but an app that lives on an individual machine or stores data in encrypted synchronised storage such as iCloud.
+
+Potentially enabling technologies:
+
+* [ArchiveBox](https://archivebox.io/)
+
+### Bookmark search
+
+Simple keyboard access to all browser bookmarks.
 
 
 
