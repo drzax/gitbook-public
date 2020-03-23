@@ -60,6 +60,11 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
 * Need to quickly [check the difference between two bits of text](https://www.diffchecker.com/)? This site is useful if you also want to publish it or point to it publicly.
 * [Tiny spreadsheets](https://tinysheet.com) for quick calculations.
 * Machine learning can be used for analysis and [fast.ia](https://www.fast.ai/) is the best there is as of 2019.
+* Useful R packages
+  * [tidyverse](https://www.tidyverse.org/) is more or less mandatory in any project
+  * Working with period \(year-quarter, year-month, etc\) dates in R is a pain, [dent](https://github.com/s-fleck/dint) is handy.
+
+
 
 ## Visualising
 
