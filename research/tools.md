@@ -6,6 +6,8 @@ description: >-
 
 # Tools
 
+Most of this page has been moved to Notion.
+
 <table>
   <thead>
     <tr>
