@@ -64,7 +64,20 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
   * [tidyverse](https://www.tidyverse.org/) is more or less mandatory in any project
   * Working with period \(year-quarter, year-month, etc\) dates in R is a pain, [dent](https://github.com/s-fleck/dint) is handy.
 
+#### Notebooks
 
+| Name | Notes |
+| :--- | :--- |
+| Jupyter |  |
+| Observable |  |
+| Notable.io |  |
+| Colabaratory |  |
+
+#### Geocoding tools
+
+| Name | Notes |
+| :--- | :--- |
+| [Geocod.io](https://www.geocod.io/) | Free up to 2,500 requests per day. |
 
 ## Visualising
 
