@@ -78,7 +78,9 @@ Most of this page has been moved to Notion.
         collaboration.</td>
     </tr>
   </tbody>
-</table>### Databases
+</table>
+
+### Databases
 
 A list of databases that could be potential sources for _automated_ data enrichment.
 
