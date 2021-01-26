@@ -20,6 +20,7 @@ Looking for some free or cheap images to help illustrate your story? These are u
 * For a huge collection of customisable SVG illustrations try [undraw](https://undraw.co/).
 * Like public domain [botanical illustrations](https://www.flickr.com/photos/biodivlibrary/)?
 * Need to do some quick deep-etching \(remove the background in a photo\)? Try[ remove.bg](https://www.remove.bg/).
+* [Old Book Illustrations](https://www.oldbookillustrations.com/) is a wonderful repository.
 
 ### Icons
 
@@ -30,7 +31,7 @@ Looking for some free or cheap images to help illustrate your story? These are u
 ## Video
 
 * Need to edit a quick video? [Veed](https://www.veed.io/) might be what you need.
-* [Headliner](https://www.headliner.app/) is an audio and video hosting and creation tool for making your audio more attrative on social media.
+* [Headliner](https://www.headliner.app/) is an audio and video hosting and creation tool for making your audio more attractive on social media.
 
 ## Data visualisation
 
