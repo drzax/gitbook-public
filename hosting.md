@@ -9,6 +9,12 @@ Finding somewhere to put your thing—whatever it is—can be a pain. I don't wa
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy) is a nice little container for running multiple web-facing docker services on a single server. It's essentially a reverse proxy which routes requests to the correct container.
 * [Carrd](https://carrd.co/) is a lean hosted CMS for simple one page sites.
 
+## Content management, frameworks, static site generators, etc
+
+* [https://blot.im/](https://blot.im/)
+* Gatsby
+* Wordpress
+* 
 ## Live coding environments
 
 These may not strictly be hosting services, but they can be incredibly useful in similar ways.
