@@ -12,7 +12,7 @@
   * [Digital investigative reporting](reporting/digital-investigative-reporting.md)
 * [Code snippets](code-snippets.md)
 * [Computer setup](coding-environment.md)
-* [Organisation and efficiency](organisation-and-efficiency.md)
+* [Note-taking and organisation](organisation-and-efficiency.md)
 * [Travel](travel.md)
 
 ## Research
