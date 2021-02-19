@@ -27,6 +27,7 @@ Looking for some free or cheap images to help illustrate your story? These are u
 * A nice, simple collection of [SVG icons](https://iconsvg.xyz/) which can be easily customised.
 * The [Noun Project](https://thenounproject.com/) has a huge collection of Creative Commons licensed icons, with optional non-attributed use for a very reasonable fee.
 * [Flaticon](https://www.flaticon.com/) is another site offering a large selection of free icon sets.
+* An aggregator of [open source icon sets](https://iconduck.com/).
 
 ## Video
 
