@@ -84,6 +84,7 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
 * [d3](https://d3js.org/) is still the leader of the pack for web-based data visualisation. There are also a heap of higher level data visualisation tools and components, many of which use d3 under the hood.
   * [Recharts](http://recharts.org/) and [data-ui](https://williaster.github.io/data-ui/) are collections of React components to build charts with.
 * [Vega](https://vega.github.io/vega/) essentially an effort at a standard data format for describing data visualisations \(a grammar of visualisation\). In theory, it would let you, using a declarative input, create a visualisation on any platform that supported the standard. While the implementation is javascript based, it also has a Python equivalent called [Altair](https://altair-viz.github.io/).
+* Build a [quick and dirty flowchart](https://flowchart.fun/).
 
 ### Animation
 
