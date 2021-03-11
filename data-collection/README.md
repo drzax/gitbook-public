@@ -85,6 +85,7 @@ When you're analyising data, you'll inevitably need to clean it first. A lot of 
   * [Recharts](http://recharts.org/) and [data-ui](https://williaster.github.io/data-ui/) are collections of React components to build charts with.
 * [Vega](https://vega.github.io/vega/) essentially an effort at a standard data format for describing data visualisations \(a grammar of visualisation\). In theory, it would let you, using a declarative input, create a visualisation on any platform that supported the standard. While the implementation is javascript based, it also has a Python equivalent called [Altair](https://altair-viz.github.io/).
 * Build a [quick and dirty flowchart](https://flowchart.fun/).
+* Build a [quick and dirty document tree](https://tree.nathanfriend.io/)
 
 ### Animation
 
