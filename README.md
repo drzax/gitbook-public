@@ -12,7 +12,7 @@ All that said, I very much welcome any contributions or recommendations you migh
 
 * [Slate](https://www.slatejs.org/#/rich-text) is an open source rich-text editor \(not coincidentally, it's the one used by [GitBook](https://www.gitbook.com/)\).
   * Other popular options are [Editor.js](https://editorjs.io/) and [Quill](https://quilljs.com/).
-* [Google Fonts](https://fonts.google.com/) is an excellent source of permissively licensed web fonts to give your digital typeface game a lift. If you're not keen on the Google hosted copies, they have them all in [a convenient GitHub repository](https://github.com/google/fonts) so you can take them from there and self-host
+* [Google Fonts](https://fonts.google.com/) is an excellent source of permissively licensed web fonts to give your digital typeface game a lift. If you're not keen on the Google hosted copies, they have them all in [a convenient GitHub repository](https://github.com/google/fonts) so you can take them from there and self-host. [Font Brief](https://www.fontbrief.com/) is a useful for finding fonts with the ability to filter by different traits.
 * Keep those dependencies up to date with [Greenkeeper](https://greenkeeper.io/).
 * [Set operations on javascript arrays](https://medium.com/@alvaro.saburido/set-theory-for-arrays-in-es6-eb2f20a61848) is something I seem to find myself needing again and again for which I haven't found a nice library.
 
