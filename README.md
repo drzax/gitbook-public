@@ -41,3 +41,7 @@ As a general rule, this space is focused on specific tools and what they're usef
 * ProPublica's [Collaborative Journalism Guide](https://propublica.gitbook.io/collaborative/).
 * A [Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/index.html).
 
+## Organisations / software I like the look of
+
+* [Small Technology Foundation](https://small-tech.org/) creates some [nice looking software](https://better.fyi/) and, as per the name, has a laudable lack of ambition for global domination. 
+
