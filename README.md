@@ -23,6 +23,7 @@ All that said, I very much welcome any contributions or recommendations you migh
 ## Apps
 
 * [Glide](https://www.glideapps.com) is an interesting app from a Google spreadsheet idea. Might be worth using for the right application.
+* [Bubble](https://bubble.io/) is another no-code app builder, similar in concept to Glide, but more fully featured.
 * [Syncthing](https://docs.syncthing.net/index.html) for a local secure replacement for dropbox and other cloud services that sync files.
 * Automatic OCR on screenshots: [Screenotate](https://screenotate.com/)
 
