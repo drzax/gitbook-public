@@ -29,7 +29,7 @@ Email seems to perpetually be both the last and the next big thing. There are a 
 If you're making an email newsletter, these resources might be useful.
 
 * [Really good emails](https://reallygoodemails.com/category/industry/news/)
-* Not a Newsletter: [A Monthly Guide to Sending Better Emails](https://docs.google.com/document/d/1pySiYQ_5OMsj1U4r5XXLPru0NtiVg2FVaO5INBlNffk/edit)
+* Not a Newsletter: [A Monthly Guide to Sending Better Emails](https://docs.google.com/document/d/1pySiYQ\_5OMsj1U4r5XXLPru0NtiVg2FVaO5INBlNffk/edit)
 
 ## Events/Speaking
 
@@ -41,3 +41,6 @@ Attending and speaking at events is a great way to build and participate in the 
 
 Documentation is super important and almost always ignored. Sometimes it's because the tools are too hard. New York Times has [leveraged Google Docs](https://github.com/nytimes/library) to fix that.
 
+## Meetings
+
+* [Rallly.co](https://rallly.co/p/w6KKDZnLLETK) — finding a meeting time. This one has nice clean design, no ads, community funded open source.&#x20;

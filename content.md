@@ -7,20 +7,21 @@
 
 ## Design
 
-* [Templates for sketching](https://sketchsheets.com/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-53) against common form factors.
+* [Templates for sketching](https://sketchsheets.com/?utm\_source=densediscovery\&utm\_medium=email\&utm\_campaign=newsletter-issue-53) against common form factors.
 
 ## Images
 
 Looking for some free or cheap images to help illustrate your story? These are useful.
 
 * [Unsplash](https://unsplash.com/) has a huge collection of beautiful, high-resolution photographs. They're free to use under the terms of the [Unsplash license](https://unsplash.com/license)
-* Every photo on [Flickr](https://www.flickr.com/) includes a licence. Many of these are free to use under various conditions, for example [commercial use and modification allowed](https://www.flickr.com/search/?text=b&license=4%2C5%2C9%2C10).
+* Every photo on [Flickr](https://www.flickr.com/) includes a licence. Many of these are free to use under various conditions, for example [commercial use and modification allowed](https://www.flickr.com/search/?text=b\&license=4%2C5%2C9%2C10).
 * [Pixabay](https://pixabay.com/en/) has a large collection of both photos and illustrations available under a commercial use, no attribution required license.
 * Get some [diversity into your stock photos](https://broadlygenderphotos.vice.com/).
 * For a huge collection of customisable SVG illustrations try [undraw](https://undraw.co/).
 * Like public domain [botanical illustrations](https://www.flickr.com/photos/biodivlibrary/)?
-* Need to do some quick deep-etching \(remove the background in a photo\)? Try[ remove.bg](https://www.remove.bg/).
+* Need to do some quick deep-etching (remove the background in a photo)? Try[ remove.bg](https://www.remove.bg/).
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) is a wonderful repository.
+* Lots of good [public domain artwork](https://open.smk.dk/en/) in the SMK Open collection.
 
 ### Icons
 
@@ -38,4 +39,3 @@ Looking for some free or cheap images to help illustrate your story? These are u
 
 * Charting libraries
   * [https://nivo.rocks/](https://nivo.rocks/)
-
