@@ -12,10 +12,10 @@ Finding somewhere to put your thing—whatever it is—can be a pain. I don't wa
 
 ## Content management, frameworks, static site generators, etc
 
-* [https://blot.im/](https://blot.im/)
-* Gatsby
-* Wordpress
-*
+* [SvelteKit](https://kit.svelte.dev) — my site builder of choice.
+* [Blot](https://blot.im/) — a neat idea: turns a plain old folder on your computer into a website.
+* [Gatsby](https://www.gatsbyjs.org) — a static site generator built on GraphQL and React.
+* [Wordpress](https://wordpress.org)
 
 ## Live coding environments
 
