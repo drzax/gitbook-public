@@ -22,6 +22,7 @@ Looking for some free or cheap images to help illustrate your story? These are u
 * Need to do some quick deep-etching (remove the background in a photo)? Try[ remove.bg](https://www.remove.bg/).
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) is a wonderful repository.
 * Lots of good [public domain artwork](https://open.smk.dk/en/) in the SMK Open collection.
+* Smithsonian has an open-access [collection of 4 million images](https://www.si.edu/openaccess/).
 
 ### Icons
 
