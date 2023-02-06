@@ -40,3 +40,12 @@ Looking for some free or cheap images to help illustrate your story? These are u
 
 * Charting libraries
   * [https://nivo.rocks/](https://nivo.rocks/)
+
+## Generative tools
+
+Generative Adversarial Networks (GANs) can be used to create imaginary content. For example:
+
+* Stable Diffusion
+* [Dino Diffusion](https://madebyoll.in/posts/dino\_diffusion/demo/) is an in-browser GAN that specifically hallucinates botanical drawings.
+* [ChatGPT](https://chat.openai.com/)
+* [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) & [thiscatdoesnotexist.com](https://thiscatdoesnotexist.com/)
