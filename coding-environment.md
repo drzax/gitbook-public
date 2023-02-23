@@ -8,7 +8,9 @@ description: >-
 
 My primary work machine is a MacBook Pro and I try to keep the settings in order with [a fork](https://github.com/drzax/dotfiles) of [cowboy's dotfiles](https://github.com/cowboy/dotfiles).
 
-These are the major components:
+Some of the software I use.
+
+* I use [Alfred](https://www.alfredapp.com/) as a quick launcher and helper. Other options I've seen in this space include [Raycast](https://www.raycast.com/).
 
 
 
@@ -43,6 +45,4 @@ Potentially enabling technologies:
 ### Bookmark search
 
 Simple keyboard access to all browser bookmarks.
-
-
 
