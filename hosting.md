@@ -6,6 +6,7 @@ Finding somewhere to put your thing—whatever it is—can be a pain. I don't wa
 * For quick deploys of any old static stuff to the internet [surge.sh](https://surge.sh/) is convenient.
 * [Google](https://cloud.google.com/products/) has an extensive offering of hosting services, including functions and static hosting. These might be worth considering, especially if you need [database hosting](data-collection/#databases) too.
 * [Supabase](https://supabase.com/) started out as a hosted database solution based on Postgres and focussed on integration with cloud hosting. It has evolved into a product suite including authentication, storage and edge functions.
+* Another option for hosting that includes database is [Render](https://render.com/).
 * For something more fully fledged or involving self-hosting multiple services, give Docker combined with a container hosting platform like [Digital Ocean](https://www.digitalocean.com/) a go.
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy) is a nice little container for running multiple web-facing docker services on a single server. It's essentially a reverse proxy which routes requests to the correct container.
 * [Carrd](https://carrd.co/) is a lean hosted CMS for simple one page sites.
@@ -27,3 +28,5 @@ These may not strictly be hosting services, but they can be incredibly useful in
 * [Observable](https://observablehq.com/) is a pretty unique live coding offering particularly suitable for visualisations from the god of D3, Mike Bostock.
   * [Observable is not Javascript](https://observablehq.com/@observablehq/observables-not-javascript) — a brief look a the differences.
   * The [Observable Standard Library](https://github.com/observablehq/stdlib/blob/master/README.md) (and [examples](https://observablehq.com/@observablehq/standard-library)).
+* [Val.Town](https://www.val.town) is a pretty interesting option for hosting simple cloud functions. It can compose functions together to create relatively sophisticated APIs that can be exposed to the world. You can pull in other people's functions in a similar way to how Observable blocks can be used. It's also possible to do cron style scheduled function execution.
+
