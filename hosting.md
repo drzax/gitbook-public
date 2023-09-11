@@ -4,7 +4,7 @@ Finding somewhere to put your thing—whatever it is—can be a pain. I don't wa
 
 * [Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) my favourite options for personal projects. They both have generous free tiers and straight forward continuous deployment from GitHub. [Cloudflare Pages](https://pages.cloudflare.com/) also fits this category by integrating with their Workers product.
 * For quick deploys of any old static stuff to the internet [surge.sh](https://surge.sh/) is convenient.
-* [Google](https://cloud.google.com/products/) has an extensive offering of hosting services, including functions and static hosting. These might be worth considering, especially if you need [database hosting](data-collection/#databases) too.
+* [Google](https://cloud.google.com/products/) has an extensive offering of hosting services, including functions and static hosting. These might be worth considering, especially if you need [database hosting](data-collection.md#databases) too.
 * [Supabase](https://supabase.com/) started out as a hosted database solution based on Postgres and focussed on integration with cloud hosting. It has evolved into a product suite including authentication, storage and edge functions.
 * Another option for hosting that includes database is [Render](https://render.com/).
 * For something more fully fledged or involving self-hosting multiple services, give Docker combined with a container hosting platform like [Digital Ocean](https://www.digitalocean.com/) a go.

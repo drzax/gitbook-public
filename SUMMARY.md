@@ -1,8 +1,7 @@
 # Table of contents
 
 * [What is this?](README.md)
-* [Data](data-collection/README.md)
-  * [neo4j](data-collection/neo4j.md)
+* [Data](data-collection.md)
 * [Community](community.md)
 * [Content](content.md)
 * [Hosting](hosting.md)
@@ -18,4 +17,3 @@
 ## Research
 
 * [Tools](research/tools.md)
-
